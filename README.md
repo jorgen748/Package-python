@@ -6,4 +6,4 @@ First we create two maps (years 2003 and 2017). The diameter of the circle assoc
 Then we generalize. Importation of data is automated for years between 2003 and 2017 and the associated maps are successively produced and saved in png format.
 Finally, these fifteen maps are used to make a short video (GIF).
 
-![screen](https://raw.github.com/{jorgen748}/{Package-python}/{header.gif})
+![GIF](https://github.com/jorgen748/Package-python/raw/master/header.gif)
